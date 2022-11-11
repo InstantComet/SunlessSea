@@ -1,0 +1,206 @@
+[
+  {
+    "Description": "物品与故事进程在右边. 将鼠标移动到图标上或者点击图标上的分类栏来查看细节.",
+    "Id": 1,
+    "Name": "你的日志!",
+    "ShouldPause": false
+  },
+  {
+    "Description": "左键点击并拖动来任命船官,或者右键点击来和他们交谈. 任命船官能给你额外的能力加成.",
+    "Id": 2,
+    "Name": "你的船官!",
+    "ShouldPause": false
+  },
+  {
+    "Description": "在这里你可以购买燃料, 补给, 船只装备和贸易货物. 不同的店家显示在左边. 点击其中一个来查看其出售的物品.",
+    "Id": 3,
+    "Name": "商店",
+    "ShouldPause": false
+  },
+  {
+    "Description": "回声(Echo)是沦敦的货币. 想要赚钱, 你可以探索世界, 带回港口报告和财宝. 当然你也可以进行贸易, 但是进行探索和收集故事通常更有利可图.",
+    "Id": 4,
+    "Name": "回声",
+    "ShouldPause": false
+  },
+  {
+    "Description": "点击启动按钮来离开港口.",
+    "Id": 5,
+    "Name": "起航",
+    "ShouldPause": false
+  },
+  {
+    "Description": "使用 WSAD 键来移动. 按下 W 两次可以全速前进. 按下 S 减速或倒车. 用 A 和 D 键进行转向.",
+    "Id": 6,
+    "Name": "移动",
+    "ShouldPause": false
+  },
+  {
+    "Description": "当你看到你的船附近有一圈绿光的时候, 你的船正在黑暗中航行, 你船员的恐惧值会增长. 注意左上角的恐惧指示器. 恐惧值在你远离陆地时会快速增长. 不要让它达到 100.",
+    "Id": 7,
+    "Name": "恐惧",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你的前灯可以打开或关闭. 打开前灯能够减缓恐惧值的增长, 但是会让敌人更容易发现你.",
+    "Id": 8,
+    "Name": "前灯",
+    "ShouldPause": false
+  },
+  {
+    "Description": "当你发现新的地点时, 你会得到碎片(Fragments). 积累足够多的碎片, 你便能得到一个秘密(Secret).\n\n你可以花费秘密来提高船长的技能 (通过和船官交谈), 或是在那些关键的故事中使用.",
+    "Id": 9,
+    "Name": "碎片",
+    "ShouldPause": false
+  },
+  {
+    "Description": "使用停泊按键来访问港口.",
+    "Id": 10,
+    "Name": "停泊",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你可以通过花费秘密提高自己的技能. 右键点击官员的头像与他们交谈, 能够找到相应选项.",
+    "Id": 11,
+    "Name": "秘密",
+    "ShouldPause": false
+  },
+  {
+    "Description": "在海泽上航行一段时间后, 日志的上方会出现一个油灯的图标. 这意味着下一个港口有新的机遇等待着你.",
+    "Id": 12,
+    "Name": "有什么在等着你",
+    "ShouldPause": false
+  },
+  {
+    "Description": "一个圆形的光圈意味着可以停泊! 去那里寻找故事.",
+    "Id": 13,
+    "Name": "港口",
+    "ShouldPause": false
+  },
+  {
+    "Description": "当你远离陆地的时候, 点击海蝙蝠的图标. 它会自动搜索附近尚未探索的的地点.",
+    "Id": 14,
+    "Name": "海蝙蝠",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你的海蝙蝠发现了什么东西! 点击这条信息来在海图上标记位置.",
+    "Id": 15,
+    "Name": "海蝙蝠 ",
+    "ShouldPause": false
+  },
+  {
+    "Description": "点击海图的图标来查看你目前探索过的地方.",
+    "Id": 16,
+    "Name": "海图",
+    "ShouldPause": false
+  },
+  {
+    "Description": "大多数的图标都有对应的键盘快捷键",
+    "Id": 17,
+    "Name": "键盘快捷键",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你遭遇了敌人! 红色的扇形显示了你的甲板火炮的射程. 当你的船员瞄准时, 保持敌人在射程之内.\n\n如果你将敌人保持在前灯的光照下, 瞄准过程会加快. 甲板火炮的图标会在你的船员完成瞄准和装填之后高亮. (按空格或者关闭教程以继续.)",
+    "Id": 18,
+    "Name": "战斗",
+    "ShouldPause": true
+  },
+  {
+    "Description": "如果你需要额外的速度, 点击全速前进键将会把额外的燃料加入引擎. 有时这么做会造成危险.",
+    "Id": 19,
+    "Name": "超载引擎!",
+    "ShouldPause": true
+  },
+  {
+    "Description": "你已经准备好开火! 要攻击你的敌人,点击甲板武器.",
+    "Id": 20,
+    "Name": "开火过程",
+    "ShouldPause": false
+  },
+  {
+    "Description": "祝贺你! 你击败了敌人. 移动到它们被击败的位置, 看看还能打捞上来什么东西.",
+    "Id": 21,
+    "Name": "拾取战利品",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你的船受到了结构损伤! 你可以在沦敦的干船坞里修复, 或者在海中使用修理按键. 在海上修理得很慢并且需要消耗补给.",
+    "Id": 22,
+    "Name": "船体伤害",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你现在缺少补给. 一旦补给用尽, 你的船员会开始挨饿. 你能在特定的港口购买补给.",
+    "Id": 23,
+    "Name": "补给",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你现在缺少燃料. 在耗尽前购买更多的燃料, 否则你会永远留在黑暗中.",
+    "Id": 24,
+    "Name": "燃料",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你失去了一名船员. 损失太多船员会让你的船无法全速前进; 船员损失殆尽则你也会死亡. 你总能够在沦敦雇佣更多的船员, 有时候在其他的港口你也能雇到一些船员.",
+    "Id": 25,
+    "Name": "船员",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你船员的恐惧值已经到达十分危险的等级. 你能在特定的港口降低恐惧, 呆在离岸足够近的地方并且打开前灯能够减缓恐惧的增长.",
+    "Id": 26,
+    "Name": "恐惧 ",
+    "ShouldPause": false
+  },
+  {
+    "Description": "小心! 你的船体在碰撞中受到了损伤. 如果你感到难以避开礁石, 试试按下 S 键减速或者倒车.",
+    "Id": 27,
+    "Name": "伤害",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你的货舱几乎满了. 如果你在港口之外装满了货仓, 你就需要扔掉其中的一些东西.",
+    "Id": 28,
+    "Name": "货仓",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你的船体结构值不足一半! 敌人的攻击现在会增加你的恐惧值, 甚至直接伤害到你的船员和补给.",
+    "Id": 29,
+    "Name": "船体伤害",
+    "ShouldPause": false
+  },
+  {
+    "Description": "按H键来鸣响汽笛. 这通常没什么用, 而且有可能激怒附近的海兽或者敌对的舰船.",
+    "Id": 30,
+    "Name": "汽笛",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你已经赚了足够的回声, 现在可以升级你船上的装备了! 点击商店面板. 最好先买一台新的引擎或者甲板武器.",
+    "Id": 31,
+    "Name": "这么多财富!",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你现在得到了充分的补给! 试着航向远离沦敦的地方. 风险越高, 收益就会越高.",
+    "Id": 32,
+    "Name": "充分补给",
+    "ShouldPause": false
+  },
+  {
+    "Description": "你现在是一名值得骄傲的潜艇艇长! 使用 '下潜' 键来将你的船变形为潜艇. 用同一按键进行上浮.",
+    "Id": 33,
+    "Name": "下潜",
+    "ShouldPause": false
+  },
+  {
+    "Description": "声呐让你可以看到水下的周围环境. 在水下,声呐可以让周围的障碍物及生物以暗蓝色荧光显示. 你需要靠近到一定距离才能确定那到底是什么",
+    "Id": 34,
+    "Name": "声呐",
+    "ShouldPause": false
+  }
+]

@@ -1,0 +1,13 @@
+{
+	VersionNumber		: "2.2.7.3165",
+	Debug				: false,
+	ForceImageImport	: false,
+	ForceDownload		: false,
+	BaseFeedUrl			: "http://sunlesssetup.storynexus.com/sunlessfeed/",
+	BaseImageUrl		: "http://images.sunlesssetup.storynexus.com.s3.amazonaws.com/",
+	BaseEntityUrl		: "http://data.sunlesssetup.storynexus.com.s3.amazonaws.com/json/entities/",
+	BaseDataUrl			: "http://data.sunlesssetup.storynexus.com.s3.amazonaws.com/",
+	StartingAvatar		: "avatar_other1",
+	InitialPersona		: "PlayerInit",
+	InitialKeyOfDreams	: 0
+}

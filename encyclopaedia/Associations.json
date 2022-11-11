@@ -1,0 +1,344 @@
+[
+  {
+    "Ambiences": [
+      {
+        "Area": null,
+        "AreaId": 101996,
+        "MusicTrackName": null,
+        "Name": "深寻王",
+        "PrefabName": "Underwater"
+      },
+      {
+        "Area": null,
+        "AreaId": 102882,
+        "MusicTrackName": "BustlingLondon",
+        "Name": "地表",
+        "PrefabName": "Surface"
+      },
+      {
+        "Area": null,
+        "AreaId": 0,
+        "MusicTrackName": "VictoryMusic",
+        "Name": "胜利遗产",
+        "PrefabName": "Wolfstack"
+      },
+      {
+        "Area": null,
+        "AreaId": 0,
+        "MusicTrackName": "DeathMusic",
+        "Name": "损失遗产",
+        "PrefabName": "Underwater"
+      },
+      {
+        "Area": null,
+        "AreaId": 104546,
+        "MusicTrackName": null,
+        "Name": "破碎城堡",
+        "PrefabName": "Godfall"
+      },
+      {
+        "Area": null,
+        "AreaId": 104545,
+        "MusicTrackName": null,
+        "Name": "低语小径",
+        "PrefabName": "Mangrove"
+      },
+      {
+        "Area": null,
+        "AreaId": 104181,
+        "MusicTrackName": "OceanaLonissimusLeah",
+        "Name": "向东",
+        "PrefabName": "Worldsend"
+      },
+      {
+        "Area": null,
+        "AreaId": 104588,
+        "MusicTrackName": "SpookyUpLead",
+        "Name": "维也纳",
+        "PrefabName": "Vienna"
+      },
+      {
+        "Area": null,
+        "AreaId": 105136,
+        "MusicTrackName": "VictoryMusic",
+        "Name": "葬礼",
+        "PrefabName": "Funeral"
+      },
+      {
+        "Area": null,
+        "AreaId": 105137,
+        "MusicTrackName": "VictoryMusic",
+        "Name": "酒杯",
+        "PrefabName": "Wineglasses"
+      },
+      {
+        "Area": null,
+        "AreaId": 105138,
+        "MusicTrackName": "VictoryMusic",
+        "Name": "王国",
+        "PrefabName": "Garden"
+      },
+      {
+        "Area": null,
+        "AreaId": 105139,
+        "MusicTrackName": "VictoryMusic",
+        "Name": "变成海怪",
+        "PrefabName": "ZeeMonster"
+      },
+      {
+        "Area": null,
+        "AreaId": 105140,
+        "MusicTrackName": "VictoryMusic",
+        "Name": "星门",
+        "PrefabName": "Stargate"
+      },
+      {
+        "Area": null,
+        "AreaId": 105141,
+        "MusicTrackName": "VictoryMusic",
+        "Name": "飞艇",
+        "PrefabName": "Underwater"
+      }
+    ],
+    "JettisonEvents": [
+      {
+        "Name": "驱逐阴沉沉的女士",
+        "Quality": null,
+        "QualityId": 111745,
+        "Tooltip": "船长！你在想什么？"
+      },
+      {
+        "Name": "赶走这个奇怪的人",
+        "Quality": null,
+        "QualityId": 112728,
+        "Tooltip": "错误的举动！"
+      },
+      {
+        "Name": "驱逐令人不安的贤者",
+        "Quality": null,
+        "QualityId": 109347,
+        "Tooltip": "不不不. 我们应该一起做……很棒的东西."
+      },
+      {
+        "Name": "赶走愉悦的女冒险家",
+        "Quality": null,
+        "QualityId": 114766,
+        "Tooltip": "我不这么认为"
+      }
+    ],
+    "LegacyUnlockQualities": [
+      {
+        "AdditionalLegaciesAllowed": 0,
+        "Description": "你的下一个人物会继承你的住处，以及你存在那里的继承物。",
+        "IncreaseLevel": 0,
+        "Name": "具有法律效应的遗嘱",
+        "Order": 1,
+        "QualityToIncrease": null,
+        "QualityToIncreaseId": 0,
+        "Tooltip": "升级你的住处并付钱订立遗嘱.",
+        "UnlockQuality": null,
+        "UnlockQualityId": 110641
+      },
+      {
+        "AdditionalLegaciesAllowed": 1,
+        "Description": "这一次，你可以选择两项遗产。",
+        "IncreaseLevel": 0,
+        "Name": "继承人",
+        "Order": 2,
+        "QualityToIncrease": null,
+        "QualityToIncreaseId": 0,
+        "Tooltip": "养育一个孩子, 并带给其来自海泽的礼物.",
+        "UnlockQuality": null,
+        "UnlockQualityId": 114230
+      },
+      {
+        "AdditionalLegaciesAllowed": 0,
+        "Description": "你的初始<b>书页值</b>提升25点。",
+        "IncreaseLevel": 25,
+        "Name": "地平线法典",
+        "Order": 3,
+        "QualityToIncrease": null,
+        "QualityToIncreaseId": 102898,
+        "Tooltip": "去北方.",
+        "UnlockQuality": null,
+        "UnlockQualityId": 113320
+      },
+      {
+        "AdditionalLegaciesAllowed": 0,
+        "Description": "你的初始<b>钢铁值</b>提升25点。",
+        "IncreaseLevel": 25,
+        "Name": "恶徒之书",
+        "Order": 4,
+        "QualityToIncrease": null,
+        "QualityToIncreaseId": 102894,
+        "Tooltip": "让无政府主义者统御.",
+        "UnlockQuality": null,
+        "UnlockQualityId": 113575
+      },
+      {
+        "AdditionalLegaciesAllowed": 0,
+        "Description": "你的初始<b>镜子值</b>提升25点。",
+        "IncreaseLevel": 25,
+        "Name": "旅行中的光",
+        "Order": 5,
+        "QualityToIncrease": null,
+        "QualityToIncreaseId": 102895,
+        "Tooltip": "攀升并且往东走",
+        "UnlockQuality": null,
+        "UnlockQualityId": 114084
+      },
+      {
+        "AdditionalLegaciesAllowed": 0,
+        "Description": "你的初始<b>红心值</b>提升25点。",
+        "IncreaseLevel": 25,
+        "Name": "红色之梦",
+        "Order": 6,
+        "QualityToIncrease": null,
+        "QualityToIncreaseId": 102897,
+        "Tooltip": "将迷失的妹妹送去她的故乡.",
+        "UnlockQuality": null,
+        "UnlockQualityId": 114086
+      },
+      {
+        "AdditionalLegaciesAllowed": 0,
+        "Description": "你的初始<b>面纱值</b>提升25点。",
+        "IncreaseLevel": 25,
+        "Name": "奇迹手册",
+        "Order": 7,
+        "QualityToIncrease": null,
+        "QualityToIncreaseId": 102896,
+        "Tooltip": "在被遗忘时, 找到那被遗忘之人.",
+        "UnlockQuality": null,
+        "UnlockQualityId": 114087
+      },
+      {
+        "AdditionalLegaciesAllowed": 0,
+        "Description": "你的初始<b>书页值</b>提升10点。",
+        "IncreaseLevel": 10,
+        "Name": "她心脏的轮廓",
+        "Order": 8,
+        "QualityToIncrease": null,
+        "QualityToIncreaseId": 102898,
+        "Tooltip": "目睹女士.",
+        "UnlockQuality": null,
+        "UnlockQualityId": 128853
+      }
+    ],
+    "Name": "Associations",
+    "TradeRoutes": [
+      {
+        "DestinationPortName": "MountPalmerston",
+        "Name": "London > Palmerston",
+        "OriginPortName": "FallenLondon",
+        "ShipNames": [
+          "TraderTrampSteamer",
+          "TraderCaligo"
+        ]
+      },
+      {
+        "DestinationPortName": "FallenLondon",
+        "Name": "AdamsWay > London",
+        "OriginPortName": "ApisPort",
+        "ShipNames": [
+          "TraderTrampSteamer",
+          "TraderCaligo"
+        ]
+      },
+      {
+        "DestinationPortName": "KhansHeart",
+        "Name": "Carnelian > Khan",
+        "OriginPortName": "PortCarnelian",
+        "ShipNames": [
+          "TraderTrampSteamer",
+          "TraderCaligo"
+        ]
+      },
+      {
+        "DestinationPortName": "MountPalmerston",
+        "Name": "Venderbight > Palmerston",
+        "OriginPortName": "Venderbight",
+        "ShipNames": [
+          "TraderTrampSteamer",
+          "TraderCaligo"
+        ]
+      },
+      {
+        "DestinationPortName": "KhansHeart",
+        "Name": "Palmerston > Khan",
+        "OriginPortName": "MountPalmerston",
+        "ShipNames": [
+          "TraderTrampSteamer",
+          "TraderCaligo"
+        ]
+      },
+      {
+        "DestinationPortName": "KhansHeart",
+        "Name": "London > Khan",
+        "OriginPortName": "FallenLondon",
+        "ShipNames": [
+          "TraderTrampSteamer",
+          "TraderCaligo"
+        ]
+      },
+      {
+        "DestinationPortName": "Venderbight",
+        "Name": "Carnelian > Venderbight",
+        "OriginPortName": "PortCarnelian",
+        "ShipNames": [
+          "TraderTrampSteamer",
+          "TraderCaligo"
+        ]
+      },
+      {
+        "DestinationPortName": "PortCarnelian",
+        "Name": "London > Carnelian",
+        "OriginPortName": "FallenLondon",
+        "ShipNames": [
+          "TraderTrampSteamer",
+          "TraderCaligo"
+        ]
+      },
+      {
+        "DestinationPortName": "ApisPort",
+        "Name": "Khan > AdamsWay",
+        "OriginPortName": "KhansHeart",
+        "ShipNames": [
+          "TraderTrampSteamer",
+          "TraderCaligo"
+        ]
+      }
+    ],
+    "UnlegacyableOfficers": [
+      {
+        "Name": "长腿",
+        "Quality": null,
+        "QualityId": 107458
+      },
+      {
+        "Name": "诡秘",
+        "Quality": null,
+        "QualityId": 107459
+      },
+      {
+        "Name": "阴暗的厨师",
+        "Quality": null,
+        "QualityId": 107460
+      },
+      {
+        "Name": "怒目而视的",
+        "Quality": null,
+        "QualityId": 107461
+      },
+      {
+        "Name": "模棱两可的",
+        "Quality": null,
+        "QualityId": 107462
+      },
+      {
+        "Name": "怅然若失的女恶魔",
+        "Quality": null,
+        "QualityId": 109475
+      }
+    ]
+  }
+]
