@@ -9,3 +9,9 @@
 resources.assets文件在"\SunlessSea\Sunless Sea_Data"目录进行替换
 ***
 以后或许可以把所有文本都整合到resources.assets中，到时候再说
+***
+项目延续自
+
+https://github.com/diskrubbish/Sunless_Sea_Chinese_Translation_Mod_Re
+
+赞美每一位大佬
