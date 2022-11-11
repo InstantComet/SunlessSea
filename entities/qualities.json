@@ -15758,7 +15758,7 @@
     "LevelDescriptionText": null,
     "LevelImageText": null,
     "LimitedToArea": null,
-    "Name": "Engine Power",
+    "Name": "引擎出力",
     "Nature": "Status",
     "Notes": "TRAVELLER RETURNING",
     "Ordering": 0,
