@@ -20,7 +20,8 @@ https://github.com/diskrubbish/Sunless_Sea_Chinese_Translation_Mod_Re
 ***
 个人的推荐mod:
 
-Cloud Saving Fix（修复点击继续出现1/4海）
+Cloud Saving Fix（修复点击“继续”时，游戏画面右上1/4是海，然后卡死的BUG）
 
 Immersive Log Book（ssk风格的日志显示）
 
+Fragment Rollover Fix（修复碎片转换成秘密时会吞掉多余碎片的问题）
