@@ -24,3 +24,4 @@ Cloud Saving Fix（修复点击继续出现1/4海）
 
 Immersive Log Book（ssk风格的日志显示）
 
+Fragment Rollover Fix（修复碎片转换成秘密时会吞掉多余碎片的问题）
