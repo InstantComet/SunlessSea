@@ -16,3 +16,11 @@ resources.assets文件在"\SunlessSea\Sunless Sea_Data"目录进行替换
 https://github.com/diskrubbish/Sunless_Sea_Chinese_Translation_Mod_Re
 
 赞美每一位大佬
+
+***
+个人的推荐mod:
+
+Cloud Saving Fix（修复点击继续出现1/4海）
+
+Immersive Log Book（ssk风格的日志显示）
+
