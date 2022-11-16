@@ -5232,7 +5232,7 @@
         },
         "SpawnPoints": [
           {
-            "Description": "你遭遇了辉煌无畏舰.",
+            "Description": "你遭遇了辉煌护卫舰.",
             "DiscoveryValue": 20,
             "Name": "DawnFrigate",
             "ParentTile": null,
