@@ -624,7 +624,7 @@
     "World": null
   },
   {
-    "Description": "我们能推测出来还有一号和二号要塞. 也许还有四号要塞.",
+    "Description": "我们能推测出来还有1号和2号要塞. 也许还有4号要塞.",
     "HideName": false,
     "Id": 102387,
     "ImageName": "stationIII_port",
@@ -632,7 +632,7 @@
     "MapY": 0,
     "MarketAccessPermitted": false,
     "MoveMessage": "你移动到了新的地方",
-    "Name": "三号要塞",
+    "Name": "3号要塞",
     "PremiumSubRequired": false,
     "RandomPostcard": false,
     "ShowOps": false,

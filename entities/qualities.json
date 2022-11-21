@@ -403,7 +403,7 @@
     "AvailableAt": null,
     "Cap": null,
     "Category": "Circumstance",
-    "ChangeDescriptionText": "0|你已经打开了装满奇物的箱子.",
+    "ChangeDescriptionText": "0|你已经打开了装满战利品的箱子.",
     "CssClasses": null,
     "Description": "满满一箱的谜团. 打开它!",
     "DifficultyScaler": 60,
