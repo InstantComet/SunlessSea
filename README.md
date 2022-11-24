@@ -1,4 +1,4 @@
-# 目前在最新版的addon文件夹中有沦敦仓库mod，正在汉化，如果不喜欢这个mod只需在下载后直接删除addon文件夹即可
+# 目前在最新版的addon文件夹中有沦敦仓库mod，已经汉化，如果不喜欢这个mod只需在下载后直接删除addon文件夹即可
 
 ### 我要下载稳定版！请前往[Releases](https://github.com/InstantComet/SunlessSea/releases)
 ### 我要下载最新版！请点击↗的绿色按钮选择Download zip
