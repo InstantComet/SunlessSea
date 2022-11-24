@@ -2,7 +2,7 @@
   {
     "RelationshipCapable": false,
     "OwnerName": "github.com/CodeAndLoathing",
-    "Description": "Do you have space to store your material things?",
+    "Description": "你有空间存放你的财富吗?",
     "Image": "cnl_warehouse",
     "Notes": null,
     "Tag": "Character",
@@ -31,10 +31,10 @@
     "AllowedOn": "Character",
     "Nature": "Status",
     "Category": "Circumstance",
-    "LevelDescriptionText": "1|A small warehouse in London",
-    "ChangeDescriptionText": "1|You have a small warehouse in London, down by the docks.",
+    "LevelDescriptionText": "1|沦敦的一个小仓库",
+    "ChangeDescriptionText": "1|你在沦敦有一个小仓库,就在码头边上.",
     "LevelImageText": null,
-    "Name": "回忆录。一个有财产的人",
+    "Name": "回忆录：一个有财产的人",
     "Id": 6100001
   },
   {
@@ -566,7 +566,7 @@
     "LevelDescriptionText": null,
     "ChangeDescriptionText": null,
     "LevelImageText": null,
-    "Name": "沦敦仓库里的已审查的浪漫小说",
+    "Name": "沦敦仓库里的已审查的爱情小说",
     "Id": 6100015
   },
   {
@@ -718,7 +718,7 @@
     "LevelDescriptionText": null,
     "ChangeDescriptionText": null,
     "LevelImageText": null,
-    "Name": "沦敦仓库里的捕光镜匣",
+    "Name": "沦敦仓库里的空的捕光镜匣",
     "Id": 6100019
   },
     {
@@ -832,7 +832,7 @@
     "LevelDescriptionText": null,
     "ChangeDescriptionText": null,
     "LevelImageText": null,
-    "Name": "沦敦仓库里的未盖章的卓越人类灵魂",
+    "Name": "沦敦仓库里的未盖章的人类灵魂",
     "Id": 6100042
   },
  {
@@ -946,7 +946,7 @@
     "LevelDescriptionText": null,
     "ChangeDescriptionText": null,
     "LevelImageText": null,
-    "Name": "沦敦仓库里的警惕的古董",
+    "Name": "沦敦仓库里的不眠的的古偶",
     "Id": 6100044
   },
    {
