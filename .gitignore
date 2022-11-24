@@ -4,3 +4,4 @@ images/
 Unity/
 config.json
 Autosave.json
+.gitignore
