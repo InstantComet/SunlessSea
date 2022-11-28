@@ -5,3 +5,4 @@ Unity/
 config.json
 Autosave.json
 .gitignore
+addon/
