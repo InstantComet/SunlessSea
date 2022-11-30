@@ -1,0 +1,44 @@
+[
+  {
+    "AllowedOn": "Character",
+    "AllowsSecondChancesOnChallengesForQuality": null,
+    "AssignToSlot": null,
+    "AvailableAt": null,
+    "Cap": null,
+    "Category": "Story",
+    "ChangeDescriptionText": null,
+    "CssClasses": null,
+    "Description": "祝你一路顺风,船长.",
+    "DifficultyScaler": 60,
+    "DifficultyTestType": "Broad",
+    "Enhancements": [],
+    "EnhancementsDescription": null,
+    "GivesTrophy": null,
+    "HimbleLevel": 0,
+    "Id": 4004000,
+    "Image": "bookred",
+    "IsSlot": false,
+    "LevelDescriptionText": null,
+    "LevelImageText": null,
+    "LimitedToArea": null,
+    "Name": "了解汉化组",
+    "Nature": "Status",
+    "Notes": "TRAVELLER RETURNING",
+    "Ordering": 0,
+    "OwnerName": "EC",
+    "Persistent": false,
+    "PreventNaming": false,
+    "PyramidNumberIncreaseLimit": 50,
+    "QualitiesWhichAllowSecondChanceOnThis": [],
+    "RelationshipCapable": false,
+    "Tag": "Knowledge",
+    "UseEvent": null,
+    "UsePyramidNumbers": false,
+    "Visible": true,
+    "World": null
+  }
+]
+
+
+
+
