@@ -6,6 +6,7 @@
 ### 我要下载最新版！请点击↗的绿色按钮选择Download zip
 ***
 #### 有bug/发现没有汉化的地方,请直接创建[issue](https://github.com/InstantComet/SunlessSea/issues)，感谢
+#### 如果出现游戏卡死，请检查游戏完整性后重新打上汉化补丁
 
 ***
 # 使用方法：
@@ -14,7 +15,9 @@
 ```
 %AppData%\..\LocalLow\Failbetter Games\Sunless Sea
 ```
-
+```
+不清楚上面这个路径位置的玩家，可以直接把它复制到地址栏
+```
 
 两个dll文件在以下目录进行替换
 ```
