@@ -19,7 +19,7 @@
 不清楚上面这个路径位置的玩家，可以直接把它复制到地址栏
 ```
 
-两个dll文件在以下目录进行替换
+两个dll文件(Failbetter.Core.dll,Sunless.Game.dll)在以下目录进行替换
 ```
 你的steam库路径\steamapps\common\SunlessSea\Sunless Sea_Data\Managed
 ```
