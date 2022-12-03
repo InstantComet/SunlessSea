@@ -14,7 +14,7 @@
 
 ### 先运行一遍游戏，以让其生成需要的文件
 
-所有文件夹(addon,constants,encyclopaedia...)在以下目录进行**替换**：
+补丁内所有文件夹 (addon,constants,encyclopaedia...) 在以下目录进行**替换**：
 ```
 %AppData%\..\LocalLow\Failbetter Games\Sunless Sea
 ```
@@ -22,7 +22,7 @@
 不清楚上面这个目录位置的玩家，请直接把它复制到资源管理器的地址栏，然后敲击回车
 ```
 
-两个dll文件(Failbetter.Core.dll,Sunless.Game.dll)在以下目录进行**替换**
+两个dll文件 (Failbetter.Core.dll,Sunless.Game.dll) 在以下目录进行**替换**
 ```
 你的steam库路径\steamapps\common\SunlessSea\Sunless Sea_Data\Managed
 ```
