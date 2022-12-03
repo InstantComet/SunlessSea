@@ -32,7 +32,7 @@ resources.assets文件在以下目录进行**替换**
 你的steam库路径\steamapps\common\SunlessSea\Sunless Sea_Data
 ```
 
-#### Epic,GOG用户，请自行寻找游戏安装目录
+### Epic,GOG用户，请自行寻找游戏安装目录
 
 ~~*以后或许可以把所有文本都整合到resources.assets中，到时候再说*~~
 ***
