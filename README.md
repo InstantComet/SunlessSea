@@ -42,8 +42,8 @@ resources.assets文件在以下目录进行替换
 
 ## 安装方式见每个mod自己的指南，此处不提供任何技术支持
 
-London Warehouse（在沦敦为玩家提供一个仓库，本mod已被汉化，并包含在本仓库的addon文件夹中）
-https://www.nexusmods.com/sunlesssea/mods/18
+~~London Warehouse（在沦敦为玩家提供一个仓库，本mod已汉化，并整合进本汉化补丁）
+https://www.nexusmods.com/sunlesssea/mods/18~~
 
 Cloud Saving Fix（修复点击“继续”时，游戏画面右上1/4是海，然后卡死的BUG）
 https://www.nexusmods.com/sunlesssea/mods/40
