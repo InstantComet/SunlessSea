@@ -2,8 +2,8 @@
 
 ![image](https://raw.githubusercontent.com/InstantComet/images/main/img/20221201030329_1.jpg)
 
-### 我要下载稳定版！请前往[Releases](https://github.com/InstantComet/SunlessSea/releases)
-### 我要下载最新版！请点击↗的绿色按钮选择Download zip
+## 我要下载稳定版！请前往[Releases](https://github.com/InstantComet/SunlessSea/releases)
+## 我要下载最新版！请点击↗的绿色按钮选择Download zip
 ***
 #### 有bug/发现没有汉化的地方,请直接创建[issue](https://github.com/InstantComet/SunlessSea/issues)，感谢
 #### 如果出现游戏卡死，请检查游戏完整性后重新打上汉化补丁
@@ -38,6 +38,9 @@ resources.assets文件在以下目录进行替换
 
 ***
 个人的推荐mod:
+
+
+## 安装方式见每个mod自己的指南，此处不提供任何技术支持
 
 London Warehouse（在沦敦为玩家提供一个仓库，本mod已被汉化，并包含在本仓库的addon文件夹中）
 https://www.nexusmods.com/sunlesssea/mods/18
