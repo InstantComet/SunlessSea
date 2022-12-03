@@ -1,4 +1,5 @@
 # 目前在最新版的addon文件夹中，有已汉化的沦敦仓库mod以及一个包含汉化组译名勘误/注释表的mod，如果不喜欢这些mod只需在下载后直接删除addon文件夹即可
+# 注意本汉化补丁为了实现完全汉化，替换了游戏的资源文件，对于没有购买潜艇DLC(Zubmariner DLC)的玩家，请不要替换resources.assets文件
 
 ![image](https://raw.githubusercontent.com/InstantComet/images/main/img/20221201030329_1.jpg)
 
