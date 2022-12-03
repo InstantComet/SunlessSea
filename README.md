@@ -16,7 +16,7 @@
 %AppData%\..\LocalLow\Failbetter Games\Sunless Sea
 ```
 ```
-不清楚上面这个路径位置的玩家，可以直接把它复制到地址栏
+不清楚上面这个目录位置的玩家，请直接把它复制到资源管理器的地址栏，然后敲击回车
 ```
 
 两个dll文件(Failbetter.Core.dll,Sunless.Game.dll)在以下目录进行替换
