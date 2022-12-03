@@ -35,7 +35,7 @@ resources.assets文件在以下目录进行**替换**
 你的steam库路径\steamapps\common\SunlessSea\Sunless Sea_Data
 ```
 
-### Epic,GOG:未经测试，不保证可用性
+### Epic,GOG:未经测试，不保证可用性(可放弃替换.dll以及.assets文件来保证基础的汉化)
 
 ~~*以后或许可以把所有文本都整合到resources.assets中，到时候再说*~~
 ***
