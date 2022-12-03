@@ -19,11 +19,11 @@
 不清楚上面这个目录位置的玩家，请直接把它复制到资源管理器的地址栏，然后敲击回车
 ```
 
-两个dll文件(Failbetter.Core.dll,Sunless.Game.dll)在以下目录进行替换
+两个dll文件(Failbetter.Core.dll,Sunless.Game.dll)在以下目录进行**替换**
 ```
 你的steam库路径\steamapps\common\SunlessSea\Sunless Sea_Data\Managed
 ```
-resources.assets文件在以下目录进行替换
+resources.assets文件在以下目录进行**替换**
 ```
 你的steam库路径\steamapps\common\SunlessSea\Sunless Sea_Data
 ```
