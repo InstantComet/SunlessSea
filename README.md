@@ -11,6 +11,8 @@
 ***
 # 使用方法：
 
+### 先运行一些游戏，以让需要的文件生成
+
 所有文件夹(addon,constants,encyclopaedia...)在以下目录进行**替换**：
 ```
 %AppData%\..\LocalLow\Failbetter Games\Sunless Sea
