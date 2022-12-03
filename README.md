@@ -11,7 +11,7 @@
 ***
 # 使用方法：
 
-所有文件夹在以下目录进行替换：
+所有文件夹(addon,constants,encyclopaedia...)在以下目录进行替换：
 ```
 %AppData%\..\LocalLow\Failbetter Games\Sunless Sea
 ```
