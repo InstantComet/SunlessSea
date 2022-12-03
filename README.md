@@ -24,7 +24,10 @@
 你的steam库路径\steamapps\common\SunlessSea\Sunless Sea_Data\Managed
 ```
 ```
-不清楚上面这个目录位置的玩家，请在你的库里找到Sunless Sea,右键属性——本地文件——浏览。这将来到“你的steam库路径\steamapps\common\SunlessSea”目录
+不清楚上面这个目录位置的玩家，请在你的steam库里找到Sunless Sea,右键属性——本地文件——浏览。这将来到“你的steam库路径\steamapps\common\SunlessSea”目录
+```
+```
+Epic,GOG用户，请自行寻找游戏安装目录
 ```
 resources.assets文件在以下目录进行**替换**
 ```
