@@ -1,10 +1,13 @@
+
+## 我要下载稳定版！请前往[Releases](https://github.com/InstantComet/SunlessSea/releases)
+## 我要下载最新版！请点击↗的绿色按钮选择Download zip
+
+
 # 目前在最新版的addon文件夹中，有已汉化的沦敦仓库mod以及一个包含汉化组译名勘误/注释表的mod，如果不喜欢这些mod只需在下载后直接删除addon文件夹即可
 # 注意本汉化补丁为了实现完全汉化，替换了游戏的资源文件，对于没有购买潜艇DLC(Zubmariner DLC)的玩家，请不要替换resources.assets文件
 
 ![image](https://raw.githubusercontent.com/InstantComet/images/main/img/20221201030329_1.jpg)
 
-## 我要下载稳定版！请前往[Releases](https://github.com/InstantComet/SunlessSea/releases)
-## 我要下载最新版！请点击↗的绿色按钮选择Download zip
 ***
 #### 有bug/发现没有汉化的地方,请直接创建[issue](https://github.com/InstantComet/SunlessSea/issues)，感谢
 #### 如果出现游戏卡死，请检查游戏完整性后重新打上汉化补丁
