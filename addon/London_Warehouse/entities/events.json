@@ -154,7 +154,7 @@
           {
             "DifficultyLevel": null,
             "DifficultyAdvanced": null,
-            "VisibleWhenRequirementFailed": false,
+            "VisibleWhenRequirementFailed": true,
             "MinLevel": 500,
             "MaxLevel": null,
             "MinAdvanced": null,
