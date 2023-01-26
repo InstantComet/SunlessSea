@@ -3,6 +3,8 @@
 # **感谢FBG让我彻底断了念想，跟我说，谢谢FBG**
 <br />
 <br />
+
+## 写给有时间精力，想要接手的朋友：用bepinex搭配autotranslator，然后用手动的方式翻译界面文本，可以避免类似的问题
 <br />
 
 ## ~~我要下载稳定版！请前往[Releases](https://github.com/InstantComet/SunlessSea/releases)~~
