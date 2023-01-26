@@ -1,21 +1,23 @@
-#### FBG在2013年1月26日进行的无谓更新摧毁了界面汉化
-#### 感谢FBG让我彻底断了念想，说，谢谢FBG
+# **FBG在2013年1月26日进行的无谓更新摧毁了界面汉化**<br />**因此，本项目不再进行活跃维护**
+# **可以通过替换文本（所有的文件夹）而不替换DLL以及asset文件来获得基本的汉化**
+# **感谢FBG让我彻底断了念想，跟我说，谢谢FBG**
+<br />
+<br />
+<br />
 
+## ~~我要下载稳定版！请前往[Releases](https://github.com/InstantComet/SunlessSea/releases)~~
 
+## ~~我要下载最新版！请点击↗的绿色按钮选择Download zip~~
 
+<br />
+<br />
 
+# ALL GONE
+<br />
+<br />
 
-
-
-
-
-
-## 我要下载稳定版！请前往[Releases](https://github.com/InstantComet/SunlessSea/releases)
-## 我要下载最新版！请点击↗的绿色按钮选择Download zip
-
-
-# 目前在最新版的addon文件夹中，有已汉化的沦敦仓库mod以及一个包含汉化组译名勘误/注释表的mod，如果不喜欢这些mod只需在下载后直接删除addon文件夹即可
-# 注意本汉化补丁为了实现完全汉化，替换了游戏的资源文件，对于没有购买潜艇DLC(Zubmariner DLC)的玩家，请不要替换resources.assets文件
+# ~~目前在最新版的addon文件夹中，有已汉化的沦敦仓库mod以及一个包含汉化组译名勘误/注释表的mod，如果不喜欢这些mod只需在下载后直接删除addon文件夹即可~~
+# ~~注意本汉化补丁为了实现完全汉化，替换了游戏的资源文件，对于没有购买潜艇DLC(Zubmariner DLC)的玩家，请不要替换resources.assets文件~~
 
 ![image](https://raw.githubusercontent.com/InstantComet/images/main/img/20221201030329_1.jpg)
 
@@ -36,7 +38,7 @@
 不清楚上面这个目录位置的玩家，请直接把它复制到资源管理器的地址栏，然后敲击回车
 ```
 
-两个dll文件 (Failbetter.Core.dll,Sunless.Game.dll) 在以下目录进行**替换**
+~~两个dll文件 (Failbetter.Core.dll,Sunless.Game.dll) 在以下目录进行**替换**~~
 ```
 你的steam库路径\steamapps\common\SunlessSea\Sunless Sea_Data\Managed
 ```
@@ -44,7 +46,7 @@
 不清楚上面这个目录位置的玩家，请在你的steam库里找到Sunless Sea,右键属性——本地文件——浏览。这将来到“你的steam库路径\steamapps\common\SunlessSea”目录
 ```
 
-resources.assets文件在以下目录进行**替换**
+~~resources.assets文件在以下目录进行**替换**~~
 ```
 你的steam库路径\steamapps\common\SunlessSea\Sunless Sea_Data
 ```
