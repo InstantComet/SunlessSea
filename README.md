@@ -1,3 +1,14 @@
+#### FBG在2013年1月26日进行的无谓更新摧毁了界面汉化
+#### 感谢FBG让我彻底断了念想，说，谢谢FBG
+
+
+
+
+
+
+
+
+
 
 ## 我要下载稳定版！请前往[Releases](https://github.com/InstantComet/SunlessSea/releases)
 ## 我要下载最新版！请点击↗的绿色按钮选择Download zip
