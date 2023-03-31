@@ -3,47 +3,41 @@
 <br />
 <br />
 
-## 我要下载稳定版！请前往[Releases](https://github.com/InstantComet/SunlessSea/releases)
-
-## 我要下载最新版！请点击↗的绿色按钮选择Download zip
-<br />
-<br />
-
-# 目前在最新版的addon文件夹中，有已汉化的沦敦仓库mod以及一个包含汉化组译名勘误/注释表的mod，如果不喜欢这些mod只需在下载后直接删除addon文件夹即可
-# 注意本汉化补丁为了实现完全汉化，替换了游戏的资源文件，对于没有购买潜艇DLC(Zubmariner DLC)的玩家，请不要替换resources.assets文件
-
 ![image](https://raw.githubusercontent.com/InstantComet/images/main/img/20221201030329_1.jpg)
 
-***
-#### 有bug/发现没有汉化的地方,请直接创建[issue](https://github.com/InstantComet/SunlessSea/issues)，感谢
-#### 如果出现游戏卡死，请检查游戏完整性后重新打上汉化补丁
-
-***
 # 使用方法：
 
-### 前往[Releases](https://github.com/InstantComet/SunlessSea/releases)下载V2.2.7.3265的游戏文件
+### 下载[V2.2.7.3265.zip](https://github.com/InstantComet/SunlessSea/releases/download/22.12.02/221202.zip)，解压并覆盖游戏安装目录下Sunless Sea_Data文件夹内原本的所有文件
 
-### 解压并覆盖Sunless Sea_Data文件夹内原本的所有文件
+### 下载[Appdata.zip](https://github.com/InstantComet/SunlessSea/releases/download/23.3.31/Appdata.zip)，解压备用
 
-### 先运行一遍游戏，以让其生成需要的文件
+### [度盘分流](https://pan.baidu.com/s/14QvtbJmmc1Ldj4VFcjNP-A)
 
-补丁内所有文件夹 (addon,constants,encyclopaedia...) 在以下目录进行**替换**：
+### 启动游戏，以让其生成需要的文件，然后关闭游戏
+
+### 将Appdata.zip内的Sunless Sea文件夹并覆盖以下目录：
 ```
 %AppData%\..\LocalLow\Failbetter Games\Sunless Sea
 ```
 ```
 不清楚上面这个目录位置的玩家，请直接把它复制到资源管理器的地址栏，然后敲击回车
 ```
-```
+### 完成
+***
+<br />
+<br />
 ### Epic,GOG:未经测试，不保证可用性(可放弃替换.dll以及.assets文件来保证基础的汉化)
 
 ~~*以后或许可以把所有文本都整合到resources.assets中，到时候再说*~~
-***
+
 项目延续自
 
 >https://github.com/diskrubbish/Sunless_Sea_Chinese_Translation_Mod_Re
 
 赞美每一位大佬
+
+### 目前在最新版的addon文件夹中，有已汉化的沦敦仓库mod以及一个包含汉化组译名勘误/注释表的mod，如果不喜欢这些mod只需在下载后直接删除addon文件夹即可
+### 注意本汉化补丁为了实现完全汉化，替换了游戏的资源文件，对于没有购买潜艇DLC(Zubmariner DLC)的玩家，请不要替换resources.assets文件
 
 ***
 个人的推荐mod:
