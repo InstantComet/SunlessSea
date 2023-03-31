@@ -15,7 +15,7 @@
 
 ### 启动游戏，以让其生成需要的文件，然后关闭游戏
 
-### 将Appdata.zip内的Sunless Sea文件夹并覆盖以下目录：
+### 将Appdata.zip内的Sunless Sea文件夹覆盖到以下目录：
 ```
 %AppData%\..\LocalLow\Failbetter Games\Sunless Sea
 ```
