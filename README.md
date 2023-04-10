@@ -7,7 +7,7 @@
 
 # 使用方法：
 
-### 下载[V2.2.7.3265.zip](https://github.com/InstantComet/SunlessSea/releases/download/22.12.02/221202.zip)，解压并覆盖游戏安装目录下Sunless Sea_Data文件夹内原本的所有文件
+### 下载[V2.2.7.3265.zip](https://github.com/InstantComet/SunlessSea/releases/download/23.3.31/V2.2.7.3265.zip)，解压并覆盖游戏安装目录下Sunless Sea_Data文件夹内原本的所有文件
 
 ### 下载[Appdata.zip](https://github.com/InstantComet/SunlessSea/releases/download/23.3.31/Appdata.zip)，解压备用
 
