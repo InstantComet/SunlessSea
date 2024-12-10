@@ -1,5 +1,5 @@
 ~~**FBG在2023年1月26日进行的更新(版本2.2.11.3212)摧毁了界面汉化。因此，本项目不再进行活跃维护（记仇）**~~
-# **本项目仅包含文本汉化，要获得介面汉化体验，请参考[tinygrox](https://github.com/tinygrox)的项目[SunlessSeaCN](https://github.com/tinygrox/SunlessSeaCN)**
+# **本项目仅包含文本汉化，要获得界面汉化体验，请参考[tinygrox](https://github.com/tinygrox)的项目[SunlessSeaCN](https://github.com/tinygrox/SunlessSeaCN)**
 <br />
 <br />
 
