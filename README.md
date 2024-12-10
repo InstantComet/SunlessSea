@@ -1,5 +1,5 @@
-# **FBG在2023年1月26日进行的无谓更新(版本2.2.11.3212)摧毁了界面汉化**<br />**因此，本项目不再进行活跃维护**
-# **若想要获得汉化体验，可以通过覆盖文件降级游戏来实现**
+~~**FBG在2023年1月26日进行的更新(版本2.2.11.3212)摧毁了界面汉化。因此，本项目不再进行活跃维护（记仇）**~~
+# **本项目仅包含文本汉化，要获得介面汉化体验，请参考[tinygrox](https://github.com/tinygrox)的项目[SunlessSeaCN](https://github.com/tinygrox/SunlessSeaCN)**
 <br />
 <br />
 
@@ -7,27 +7,23 @@
 
 # 使用方法：
 
-### 下载[V2.2.7.3265.zip](https://github.com/InstantComet/SunlessSea/releases/download/23.3.31/V2.2.7.3265.zip)，解压并覆盖游戏安装目录下Sunless Sea_Data文件夹内原本的所有文件
+### 1. 参照[SunlessSeaCN](https://github.com/tinygrox/SunlessSeaCN)中的说明，完成UI汉化
 
-### 下载[Appdata.zip](https://github.com/InstantComet/SunlessSea/releases/download/23.3.31/Appdata.zip)，解压备用
+### 2. 下载[Sunless_sea_CN_reborn.zip](https://github.com/InstantComet/SunlessSea/releases/download/24.12.10/Sunless_sea_CN_reborn.zip)，解压备用  [OneDrive网盘分流](https://42witch-my.sharepoint.com/:u:/g/personal/comet_42witch_onmicrosoft_com/EVtgS1os_iNPsQ6v-bYMIBYBI2wSq-DDi8jv89iK3L9sSA?e=0UWN8F)
 
-### [度盘分流](https://pan.baidu.com/s/14QvtbJmmc1Ldj4VFcjNP-A)
+### 3. 启动游戏，以让其生成需要的文件，然后关闭游戏 （非必需，进行UI汉化的过程应该已经进行过一次启动）
 
-### 启动游戏，以让其生成需要的文件，然后关闭游戏
+### 4. 解压Sunless_sea_CN_reborn.zip，你应当能看到addon以及images两个文件夹
 
-### 将Appdata.zip内的Sunless Sea文件夹覆盖到以下目录：
+### 5. 将这两个文件夹复制到以下的位置：（请直接按Windows+R，粘贴以下内容到框内，然后敲击回车）
 ```
 %AppData%\..\LocalLow\Failbetter Games\Sunless Sea
 ```
-```
-不清楚上面这个目录位置的玩家，请直接把它复制到资源管理器的地址栏，然后敲击回车
-```
-### 完成
+
+### 6. 完成
 ***
 
-Epic,GOG:未经测试，不保证可用性(可放弃替换.dll以及.assets文件来保证基础的汉化)
-
-~~*以后或许可以把所有文本都整合到resources.assets中，到时候再说*~~
+Epic, GOG:可用
 
 项目延续自
 
